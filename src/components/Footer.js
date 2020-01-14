@@ -16,9 +16,8 @@ export default function Footer() {
         })}
       </ul>
       <ul className="copyright">
-        <li>&copy; Spectral</li>
         <li>
-          Design: <a href="http://html5up.net">HTML5 UP</a>
+          Created with <span role="img" aria-label="hear emoji">❤️</span> by Ian Davis
         </li>
       </ul>
     </footer>
