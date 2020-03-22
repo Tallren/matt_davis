@@ -88,7 +88,7 @@ const IndexPage = () => (
             <h3>Pricing and Packaging</h3>
           </li>
           <li className="icon solid fa-chalkboard-teacher">
-            <h3>Development of presentations</h3>
+            <h3>Presentation Development</h3>
           </li>
           <li className="icon solid fa-shopping-cart">
             <h3>Procurement Liaison</h3>
