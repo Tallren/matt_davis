@@ -75,22 +75,22 @@ const IndexPage = () => (
           <h2>Brand Management Services</h2>
         </header>
         <ul className="features">
-          <li className="icon fa-paper-plane">
+          <li className="icon solid fa-lightbulb">
             <h3>Product Screening</h3>
           </li>
-          <li className="icon solid fa-laptop">
+          <li className="icon solid fa-chess">
             <h3>Marketing Strategy</h3>
           </li>
-          <li className="icon solid fa-code">
+          <li className="icon solid fa-cubes">
             <h3>Product Development</h3>
           </li>
-          <li className="icon solid fa-headphones-alt">
-            <h3>Pricing and Packagin</h3>
+          <li className="icon solid fa-hand-holding-usd">
+            <h3>Pricing and Packaging</h3>
           </li>
-          <li className="icon fa-heart">
-            <h3>Development of sales presentations to buyers</h3>
+          <li className="icon solid fa-chalkboard-teacher">
+            <h3>Development of presentations</h3>
           </li>
-          <li className="icon fa-flag">
+          <li className="icon solid fa-shopping-cart">
             <h3>Procurement Liaison</h3>
           </li>
         </ul>

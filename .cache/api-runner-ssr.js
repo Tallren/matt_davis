@@ -3,7 +3,7 @@ var plugins = [{
       options: {"plugins":[]},
     },{
       plugin: require('/Users/iandavis/Dev/matt_davis/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Spectral","short_name":"Landing","start_url":"/gatsby-starter-spectral/","background_color":"#663399","theme_color":"#663399","display":"standalone","icon":"src/assets/img/website-icon.png"},
+      options: {"plugins":[],"name":"Spectral","short_name":"Landing","start_url":"/gatsby-starter-spectral/","background_color":"#663399","theme_color":"#663399","display":"standalone","icon":"src/assets/img/favicon.png"},
     },{
       plugin: require('/Users/iandavis/Dev/matt_davis/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},

@@ -17,7 +17,7 @@ export default function Footer() {
       </ul>
       <ul className="copyright">
         <li>
-          Created with <span role="img" aria-label="hear emoji">❤️</span> by Ian Davis
+          Created with <span role="img" aria-label="heart emoji">❤️</span> by Ian Davis
         </li>
       </ul>
     </footer>
