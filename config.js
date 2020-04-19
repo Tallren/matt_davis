@@ -18,5 +18,11 @@ module.exports = {
       name: 'Email',
       url: 'mailto:matt@tvsmatt.com'
     },
+    {
+      style: 'brands',
+      icon: 'fa-linkedin',
+      name: 'Linkedin',
+      url: 'https://www.linkedin.com/in/matt-davis-7bb3b2b/'
+    },
   ],
 };
