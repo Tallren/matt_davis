@@ -5,9 +5,9 @@ import Layout from '../components/Layout';
 import Scroll from '../components/Scroll';
 
 import pic1 from '../assets/images/pic01.jpg';
-import pic2 from '../assets/images/pic02.jpg';
 import pic3 from '../assets/images/pic03.jpg';
 import config from '../../config';
+import Video from '../components/Video'
 const IndexPage = () => (
   <Layout>
     <section id="banner">
@@ -40,9 +40,10 @@ const IndexPage = () => (
         </div>
       </section>
       <section className="spotlight">
-        <div className="image">
-          <img src={pic2} alt="" />
-        </div>
+        <Video
+        videoSrcURL="https://www.youtube.com/embed/ScBJ0zaFriM"
+        videoTitle="Matt Davis HSN"
+        />
         <div className="content">
           <h2>
             Don’t just tell people about your product, demonstrate it.
