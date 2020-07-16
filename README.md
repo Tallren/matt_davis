@@ -1,5 +1,5 @@
 Live URL:
-tvsmatt.com
+[tvsmatt.com](tvsmatt.com)
 
 # gatsby-starter-spectral
 
