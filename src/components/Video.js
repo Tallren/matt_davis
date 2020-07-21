@@ -3,7 +3,6 @@ const Video = ({ videoSrcURL, videoTitle, ...props }) => (
   <div className="video">
     <iframe
       width="840"
-      height="470"
       src={videoSrcURL}
       title={videoTitle}
       allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"

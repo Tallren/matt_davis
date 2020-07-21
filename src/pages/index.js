@@ -1,21 +1,19 @@
 import React from 'react';
-
 import Layout from '../components/Layout';
-
 import Scroll from '../components/Scroll';
-
 import pic1 from '../assets/images/pic01.jpg';
 import pic3 from '../assets/images/pic03.jpg';
 import config from '../../config';
 import Video from '../components/Video'
+import Button from '../components/AwesomeButton'
+
 const IndexPage = () => (
   <Layout>
     <section id="banner">
       <div className="inner">
         <h2>{config.heading}</h2>
         <p>{config.subHeading}</p>
-        <ul className="actions special">
-        </ul>
+        <Button></Button>
       </div>
       <Scroll type="id" element="two">
         <a href="#one" className="more">
