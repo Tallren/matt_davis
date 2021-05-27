@@ -1,6 +1,6 @@
 module.exports = {
   siteTitle: 'Matt Davis', // <title>
-  manifestName: 'Spectral',
+  manifestName: 'HSN On-Air Guest',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
