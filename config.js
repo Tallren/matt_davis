@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/favicon.png',
   pathPrefix: `/gatsby-starter-spectral/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Matt Davis',
-  subHeading: 'Founder and CEO of Davis Sales Group  ',
+  subHeading: 'Founder and CEO of Davis Sales Group',
   // social
   socialLinks: [
     {
