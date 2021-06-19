@@ -1,14 +1,14 @@
 {
-  "name": "gatsby-starter-spectral",
+  "name": "tvsmatt",
   "version": "0.0.1",
-  "description": "Gatsby.js V2 starter template based on Spectral by HTML5 UP",
+  "description": "TV's Matt Davis",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-spectral.git"
+    "url": "git+https://github.com/Tallren/matt_davis.git"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "Ian Davis",
+    "email": "iandavisdev@gmail.com"
   },
   "dependencies": {
     "gatsby": "^2.24.4",
