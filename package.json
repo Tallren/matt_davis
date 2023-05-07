@@ -11,7 +11,7 @@
     "email": "iandavisdev@gmail.com"
   },
   "dependencies": {
-    "gatsby": "^2.24.4",
+    "gatsby": "^5.9.0",
     "gatsby-cli": "^2.12.62",
     "gatsby-plugin-manifest": "^2.1.1",
     "gatsby-plugin-offline": "^2.1.0",
